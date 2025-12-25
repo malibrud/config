@@ -10,7 +10,6 @@ return { -- Highlight, edit, and navigate code
 			"json",
 			"go",
 			"c",
-			"c3",
 			"cpp",
 			"c_sharp",
 			"html",
