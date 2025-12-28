@@ -14,6 +14,7 @@ sudo apt install -y \
     lldb \
     llvm \
     llvm-dev \
+    npm \
     odin \
     python3 \
     python3-pip \
