@@ -17,6 +17,7 @@ require("lazy").setup({
 	require("plugins.alpha"),
 	require("plugins.autocompletion"),
 	require("plugins.autoformatting"),
+	require("plugins.autosave"),
 	require("plugins.bufferline"),
 	require("plugins.colortheme"),
 	require("plugins.comment"),
