@@ -4,11 +4,12 @@ sudo apt install -y \
     binutils \
     build-essential \
     clang \
+    cmake \
     curl \
-    neovim \
-    luarocks \
     gdb \
     git \
+    neovim \
+    luarocks \
     libclang-dev \
     lld \
     lldb \
