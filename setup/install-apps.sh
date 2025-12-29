@@ -6,16 +6,21 @@ sudo apt install -y \
     clang \
     cmake \
     curl \
-    libeigen3-dev \
     gdb \
     git \
-    neovim \
-    luarocks \
     libclang-dev \
+    libeigen3-dev \
+    libgl1-mesa-dev \
+    libglu1-mesa-dev \
+    libxxf86vm-dev \
+    libxext-dev \
+    libxcursor-dev \
+    luarocks \
     lld \
     lldb \
     llvm \
     llvm-dev \
+    neovim \
     ninja-build \
     npm \
     odin \
