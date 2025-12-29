@@ -6,6 +6,7 @@ sudo apt install -y \
     clang \
     cmake \
     curl \
+    libeigen3-dev \
     gdb \
     git \
     neovim \
