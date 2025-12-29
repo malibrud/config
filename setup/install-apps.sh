@@ -15,6 +15,7 @@ sudo apt install -y \
     lldb \
     llvm \
     llvm-dev \
+    ninja-build \
     npm \
     odin \
     python3 \
