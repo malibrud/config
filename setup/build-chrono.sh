@@ -118,3 +118,4 @@ cmake -G "${BUILDSYSTEM}" -B "${BUILD_DIR}" -S "${SOURCE_DIR}" \
 # ------------------------------------------------------------------------
 
 cmake --build ${BUILD_DIR} --config ${CMAKE_BUILD_TYPE}
+cmake --install ${BUILD_DIR} --config ${CMAKE_BUILD_TYPE}
