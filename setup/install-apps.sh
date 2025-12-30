@@ -15,6 +15,7 @@ sudo apt install -y \
     libxxf86vm-dev \
     libxext-dev \
     libxcursor-dev \
+    libx11-dev \
     luarocks \
     lld \
     lldb \
