@@ -116,6 +116,7 @@ if ! shopt -oq posix; then
 fi
 
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH:+${LD_LIBRARY_PATH}:}/usr/lib/../lib64"
+export LD_LIBRARY_PATH="${LD_LIBRARY_PATH:+${LD_LIBRARY_PATH}:}/usr/local/lib"
 export LD_RUN_PATH="${LD_RUN_PATH:+${LD_RUN_PATH}:}/usr/lib/../lib64"
 export PATH="$PATH:~/apps/odin-linux-amd64-nightly+2025-12-01"
 export PATH="$PATH:~/apps/c3"
