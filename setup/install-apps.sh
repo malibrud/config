@@ -4,6 +4,7 @@ sudo apt install -y \
     binutils \
     build-essential \
     clang \
+    clangd \
     cmake \
     curl \
     gdb \
